@@ -1,0 +1,2 @@
+# GLM-Architecture-Support-for-Distributed-Llama
+Distributed Inference for GLM-4 and INTELLECT-3 (106B MoE) Author: Glenn Guilloux • Status: In Development. This project extends the Distributed Llama inference framework to support GLM-4 and INTELLECT-3 (106B MoE) architectures. The objective is to provide eficient distributed inference for very large Mixture-of-Experts models on consumer hardware
