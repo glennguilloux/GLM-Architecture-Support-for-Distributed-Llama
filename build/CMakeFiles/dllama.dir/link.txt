@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -Wl,--dependency-file=CMakeFiles/dllama.dir/link.d CMakeFiles/dllama.dir/src/main.cpp.o -o dllama  libglm-dllama.a /usr/lib/libgomp.so /usr/lib/libpthread.a

@@ -1,0 +1,799 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::OpenCL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__OpenCL-Debug-afab5627e380ac7b9b2f.json",
+					"name" : "CUDA::OpenCL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cuFile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cuFile-Debug-9756ad5770b33f815ce5.json",
+					"name" : "CUDA::cuFile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cuFile_rdma::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cuFile_rdma-Debug-638aa15b118d26b7fd1d.json",
+					"name" : "CUDA::cuFile_rdma",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cuFile_rdma_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cuFile_rdma_static-Debug-6a44135a7fdfe66d0d3d.json",
+					"name" : "CUDA::cuFile_rdma_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cuFile_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cuFile_static-Debug-da6a3b456b2a1e1a45a6.json",
+					"name" : "CUDA::cuFile_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cublas::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cublas-Debug-19c173b4bf087126e4a9.json",
+					"name" : "CUDA::cublas",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cublasLt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cublasLt-Debug-3c4ee630aaf7924c3238.json",
+					"name" : "CUDA::cublasLt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cublasLt_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cublasLt_static-Debug-7c4808125aa8d3c93c14.json",
+					"name" : "CUDA::cublasLt_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cublas_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cublas_static-Debug-2ee637809c0bd20f31dd.json",
+					"name" : "CUDA::cublas_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cuda_driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cuda_driver-Debug-6f799430a6e54fd55b2f.json",
+					"name" : "CUDA::cuda_driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cudart::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cudart-Debug-6a935989844107ca14b0.json",
+					"name" : "CUDA::cudart",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cudart_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cudart_static-Debug-fd17f2a1911cae9bd0c9.json",
+					"name" : "CUDA::cudart_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cudart_static_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cudart_static_deps-Debug-acb06aedd17bd579418a.json",
+					"name" : "CUDA::cudart_static_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cufft::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cufft-Debug-02a5c944c461ff471199.json",
+					"name" : "CUDA::cufft",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cufft_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cufft_static-Debug-4eba308ece7fbd2d26bd.json",
+					"name" : "CUDA::cufft_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cufft_static_nocallback::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cufft_static_nocallback-Debug-31c2c61de4799c3f1523.json",
+					"name" : "CUDA::cufft_static_nocallback",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cufftw::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cufftw-Debug-c3687b706b8c83545f9c.json",
+					"name" : "CUDA::cufftw",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cufftw_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cufftw_static-Debug-116139617b91502302e9.json",
+					"name" : "CUDA::cufftw_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::culibos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__culibos-Debug-eb05d409446dd41e6ce1.json",
+					"name" : "CUDA::culibos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cupti::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cupti-Debug-8c7f5acff93c517553d8.json",
+					"name" : "CUDA::cupti",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cupti_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cupti_static-Debug-2f191c8d60eeb1b16b72.json",
+					"name" : "CUDA::cupti_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::curand::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__curand-Debug-fb828138f4f828aadf35.json",
+					"name" : "CUDA::curand",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::curand_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__curand_static-Debug-a3a979c7f521d4db4fb2.json",
+					"name" : "CUDA::curand_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cusolver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cusolver-Debug-c072d1fe994688abf5d5.json",
+					"name" : "CUDA::cusolver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cusolver_lapack_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cusolver_lapack_static-Debug-4b477a932a2c3b093827.json",
+					"name" : "CUDA::cusolver_lapack_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cusolver_metis_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cusolver_metis_static-Debug-4a26761b3dcf058546a8.json",
+					"name" : "CUDA::cusolver_metis_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cusolver_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cusolver_static-Debug-f7435f2dcb89c54d12f7.json",
+					"name" : "CUDA::cusolver_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cusparse::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cusparse-Debug-9109c1ec78fcef3dde44.json",
+					"name" : "CUDA::cusparse",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::cusparse_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__cusparse_static-Debug-72c9f99a352f91481894.json",
+					"name" : "CUDA::cusparse_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppc-Debug-7f996ff3083dad417a81.json",
+					"name" : "CUDA::nppc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppc_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppc_static-Debug-ed6cab3fff7a594e3a03.json",
+					"name" : "CUDA::nppc_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppial-Debug-eb37de93dc92f04372c7.json",
+					"name" : "CUDA::nppial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppial_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppial_static-Debug-a156d1709343a8fc5192.json",
+					"name" : "CUDA::nppial_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppicc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppicc-Debug-b8fa1369c4af4dac4f22.json",
+					"name" : "CUDA::nppicc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppicc_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppicc_static-Debug-16171fab12477bf0fcda.json",
+					"name" : "CUDA::nppicc_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppidei::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppidei-Debug-1d3209be1ea46da9a8dd.json",
+					"name" : "CUDA::nppidei",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppidei_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppidei_static-Debug-c5aba70e2e128ac6286f.json",
+					"name" : "CUDA::nppidei_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppif::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppif-Debug-df6134d959a7941321b4.json",
+					"name" : "CUDA::nppif",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppif_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppif_static-Debug-3d83610bdeaad39944fd.json",
+					"name" : "CUDA::nppif_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppig::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppig-Debug-c5e263ba1c858470c6e3.json",
+					"name" : "CUDA::nppig",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppig_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppig_static-Debug-418012448514eef60d1e.json",
+					"name" : "CUDA::nppig_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppim::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppim-Debug-d7146eb52f9192f237d7.json",
+					"name" : "CUDA::nppim",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppim_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppim_static-Debug-c65d7fff899cfffd3ab2.json",
+					"name" : "CUDA::nppim_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppist::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppist-Debug-8a44981284870d3f7da2.json",
+					"name" : "CUDA::nppist",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppist_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppist_static-Debug-eda843b37b8747ce6713.json",
+					"name" : "CUDA::nppist_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppisu::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppisu-Debug-2ed540051d7e59028a95.json",
+					"name" : "CUDA::nppisu",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppisu_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppisu_static-Debug-0aa324f5bb76bccf25f6.json",
+					"name" : "CUDA::nppisu_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppitc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppitc-Debug-7f335661c49e91af3711.json",
+					"name" : "CUDA::nppitc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nppitc_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nppitc_static-Debug-180f52552847629d50c7.json",
+					"name" : "CUDA::nppitc_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::npps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__npps-Debug-f82392425632d05fce38.json",
+					"name" : "CUDA::npps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::npps_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__npps_static-Debug-bbc64d6d3d7ee2918c65.json",
+					"name" : "CUDA::npps_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvJitLink::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvJitLink-Debug-ff643d47b31fc39bf842.json",
+					"name" : "CUDA::nvJitLink",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvJitLink_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvJitLink_static-Debug-0980d249e5b66e3b4054.json",
+					"name" : "CUDA::nvJitLink_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvToolsExt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvToolsExt-Debug-b2249b41c70873365c4e.json",
+					"name" : "CUDA::nvToolsExt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvfatbin::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvfatbin-Debug-0d38f40336c58d36cac4.json",
+					"name" : "CUDA::nvfatbin",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvfatbin_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvfatbin_static-Debug-15cb61b65dd9369efe09.json",
+					"name" : "CUDA::nvfatbin_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvjpeg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvjpeg-Debug-7b916989504889e19408.json",
+					"name" : "CUDA::nvjpeg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvjpeg_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvjpeg_static-Debug-f87a3fb34622bcc016ba.json",
+					"name" : "CUDA::nvjpeg_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvml::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvml-Debug-048c159f2cdea6c311ea.json",
+					"name" : "CUDA::nvml",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvml_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvml_static-Debug-086cf15e50539f5d3e59.json",
+					"name" : "CUDA::nvml_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvperf_host::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvperf_host-Debug-81c80c2ed6b5c4c817d9.json",
+					"name" : "CUDA::nvperf_host",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvperf_host_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvperf_host_static-Debug-4344bc241168abf421ce.json",
+					"name" : "CUDA::nvperf_host_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvperf_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvperf_target-Debug-4e26292a4bf31bda3bfe.json",
+					"name" : "CUDA::nvperf_target",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvptxcompiler_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvptxcompiler_static-Debug-81bed4d6416d5f0530b9.json",
+					"name" : "CUDA::nvptxcompiler_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvrtc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvrtc-Debug-b5b7dcfc17a24da16e41.json",
+					"name" : "CUDA::nvrtc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvrtc_builtins::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvrtc_builtins-Debug-4c602cb12b2d8897fe62.json",
+					"name" : "CUDA::nvrtc_builtins",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvrtc_builtins_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvrtc_builtins_static-Debug-25f26f24630007c12dc1.json",
+					"name" : "CUDA::nvrtc_builtins_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvrtc_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvrtc_static-Debug-c08cd855866daee5ede7.json",
+					"name" : "CUDA::nvrtc_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::nvtx3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__nvtx3-Debug-420a79ae3bd399a863ff.json",
+					"name" : "CUDA::nvtx3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::pcsamplingutil::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__pcsamplingutil-Debug-ba1860c7e99de0613f71.json",
+					"name" : "CUDA::pcsamplingutil",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "CUDA::toolkit::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CUDA__toolkit-Debug-ee354ae1b4cb1ebef960.json",
+					"name" : "CUDA::toolkit",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "OpenMP::OpenMP_CXX::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-OpenMP__OpenMP_CXX-Debug-d10860f006c152b2e291.json",
+					"name" : "OpenMP::OpenMP_CXX",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Threads::Threads::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Threads__Threads-Debug-606cc3c93068e962ae84.json",
+					"name" : "Threads::Threads",
+					"projectIndex" : 0
+				}
+			],
+			"directories" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72
+					],
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-be7b7c5128c1e6fe5eba.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"abstractTargetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GLMDistributedLlama",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "benchmark::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-benchmark-Debug-ecd80258584f7a38c414.json",
+					"name" : "benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "build-all::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-build-all-Debug-56480d26a52a463f86b4.json",
+					"name" : "build-all",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dllama::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dllama-Debug-fdf63e9caca6c3445627.json",
+					"name" : "dllama",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glm-benchmark::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glm-benchmark-Debug-4ad17607dd5c4d9630f3.json",
+					"name" : "glm-benchmark",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glm-dllama::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glm-dllama-Debug-981d3ee6837bf7e78c82.json",
+					"name" : "glm-dllama",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "glm-launcher::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-glm-launcher-Debug-e4be3d99a51be110d6d6.json",
+					"name" : "glm-launcher",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "install-deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-install-deps-Debug-a3a34ab9cad3a14c2ad2.json",
+					"name" : "install-deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "intellect-worker::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-intellect-worker-Debug-31b1041ce66ea2a456ad.json",
+					"name" : "intellect-worker",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run-tests::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run-tests-Debug-af70cef7da6a56030256.json",
+					"name" : "run-tests",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+		"source" : "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

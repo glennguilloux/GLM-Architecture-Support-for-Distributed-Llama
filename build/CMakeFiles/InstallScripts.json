@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

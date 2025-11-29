@@ -1,0 +1,17 @@
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/glm-dllama.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/dllama.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/glm-launcher.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/intellect-worker.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/glm-benchmark.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/build-all.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/run-tests.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/benchmark.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/install-deps.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/package.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/package_source.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/edit_cache.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/rebuild_cache.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/list_install_components.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/install.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/install/local.dir
+/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build/CMakeFiles/install/strip.dir

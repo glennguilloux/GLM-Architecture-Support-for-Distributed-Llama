@@ -1,0 +1,206 @@
+[
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/llama.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llama.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llama.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/llama.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/app.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/app.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/app.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/app.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/llm.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llm.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llm.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/llm.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/llm-cli.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llm-cli.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llm-cli.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/llm-cli.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/llm-api.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llm-api.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llm-api.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/llm-api.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/tokenizer.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/tokenizer.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/tokenizer.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/tokenizer.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/tokenizer-cli.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/tokenizer-cli.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/tokenizer-cli.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/tokenizer-cli.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/tokenizer-lib.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/tokenizer-lib.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/tokenizer-lib.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/tokenizer-lib.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/llamafile-sgemm.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llamafile-sgemm.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llamafile-sgemm.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/llamafile-sgemm.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/nn-core.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-core.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-core.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/nn-core.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/nn-cpu.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-cpu.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-cpu.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/nn-cpu.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/nn-cpu-ops.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-cpu-ops.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-cpu-ops.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/nn-cpu-ops.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/nn-executor.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-executor.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-executor.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/nn-executor.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/nn-network.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-network.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-network.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/nn-network.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/nn-quants.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-quants.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-quants.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/nn-quants.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/nn-quantize.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-quantize.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/nn-quantize.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/nn-quantize.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/llama-cli.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llama-cli.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llama-cli.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/llama-cli.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/llama-server.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llama-server.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/llama-server.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/llama-server.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/glm-4.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-4.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-4.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/glm-4.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/glm-tokenizer.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-tokenizer.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-tokenizer.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/glm-tokenizer.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/glm-quantize.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-quantize.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-quantize.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/glm-quantize.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/glm-attention.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-attention.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-attention.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/glm-attention.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/glm-layer-norm.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-layer-norm.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-layer-norm.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/glm-layer-norm.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/glm-rope.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-rope.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-rope.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/glm-rope.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/intellect-3.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/intellect-3.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/intellect-3.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/intellect-3.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/intellect-router.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/intellect-router.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/intellect-router.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/intellect-router.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/expert-network.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/expert-network.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/expert-network.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/expert-network.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/moe-manager.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/moe-manager.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/moe-manager.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/moe-manager.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/distributed-moe.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/distributed-moe.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/distributed-moe.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/distributed-moe.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DCONSUMER_HARDWARE_OPTIMIZATION=1 -DCPU_ONLY=1 -DDEBUG -DDEBUG_MODE=1 -DGLM_ARCHITECTURE_SUPPORT=1 -DINTELLECT3_MOE_SUPPORT=1 -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -funroll-loops -fopenmp -o CMakeFiles/glm-dllama.dir/src/glm/expert-cache.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/expert-cache.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/expert-cache.cpp",
+  "output": "CMakeFiles/glm-dllama.dir/src/glm/expert-cache.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DDEBUG -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -o CMakeFiles/dllama.dir/src/main.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/main.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/main.cpp",
+  "output": "CMakeFiles/dllama.dir/src/main.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DDEBUG -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -o CMakeFiles/glm-launcher.dir/src/glm/glm-launcher.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-launcher.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-launcher.cpp",
+  "output": "CMakeFiles/glm-launcher.dir/src/glm/glm-launcher.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DDEBUG -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -o CMakeFiles/intellect-worker.dir/src/glm/intellect-worker.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/intellect-worker.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/intellect-worker.cpp",
+  "output": "CMakeFiles/intellect-worker.dir/src/glm/intellect-worker.cpp.o"
+},
+{
+  "directory": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/build",
+  "command": "/usr/bin/c++ -DDEBUG -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src -I/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -std=gnu++17 -o CMakeFiles/glm-benchmark.dir/src/glm/glm-benchmark.cpp.o -c /mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-benchmark.cpp",
+  "file": "/mnt/apps/Softwares2/DistributedLama/distributed-llama-0.16.3/sponsorship-proposals/src/glm/glm-benchmark.cpp",
+  "output": "CMakeFiles/glm-benchmark.dir/src/glm/glm-benchmark.cpp.o"
+}
+]

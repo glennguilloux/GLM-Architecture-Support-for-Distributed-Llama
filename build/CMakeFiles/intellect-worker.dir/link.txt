@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -march=native -mtune=native -mavx2 -mfma -g -g -DDEBUG -Wl,--dependency-file=CMakeFiles/intellect-worker.dir/link.d "CMakeFiles/intellect-worker.dir/src/glm/intellect-worker.cpp.o" -o intellect-worker  libglm-dllama.a /usr/lib/libgomp.so /usr/lib/libpthread.a
